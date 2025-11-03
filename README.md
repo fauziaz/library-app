@@ -23,3 +23,9 @@ A simple **Flutter application** that demonstrates navigation using **GetX** and
 - **Framework:** Flutter  
 - **State Management / Navigation:** GetX  
 - **Language:** Dart  
+
+---
+
+## 🎥 Demo App
+![Image](https://github.com/user-attachments/assets/d80f8291-a4f1-4c79-b9dd-f8101778412a)
+
